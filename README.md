@@ -80,7 +80,7 @@ Clustering reveals biologically meaningful T-cell groups likely targeting specif
 
 ## 🚀 Future Improvements
 
-* Apply advanced clustering methods (e.g., GLIPH2, ALICE)
+* Apply advanced clustering methods (e.g., GLIPH2)
 * Integrate antigen specificity data
 * Perform diversity metrics (Shannon index)
 * Compare across disease conditions
@@ -96,7 +96,7 @@ Clustering reveals biologically meaningful T-cell groups likely targeting specif
 
 ## 🧑‍💻 Author
 
-Your Name
+Mohamed Esmat
 
 ---
 
